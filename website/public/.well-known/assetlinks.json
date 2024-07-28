@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "farm.gonana.gonana",
+    "sha256_cert_fingerprints":
+    ["05:B8:51:F6:C5:7B:50:DD:1C:28:F2:F0:A3:D8:5B:B7:61:5D:E9:60:85:3F:9A:E7:53:77:4C:31:29:FC:EC:A5","6E:26:4A:C2:8B:FC:2C:4A:DB:F2:69:DF:3A:83:86:AE:77:12:EF:67:BE:44:9D:A9:BF:59:2B:EF:7D:92:1D:34","D9:66:FA:52:2A:DE:0C:E8:2E:0C:56:5F:8D:BA:DA:0C:B2:47:A4:14:98:D6:C8:C5:12:C9:21:9C:DF:C0:5D:A7"]
+  }
+}]
